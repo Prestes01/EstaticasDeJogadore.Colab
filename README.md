@@ -1,5 +1,5 @@
 # EstaticasDeJogadore.Colab
-ANALISE ESTATÍSTICOS DOS MELHORES JOGADORES DE CADA LIGAS 
+ANALISE ESTATÍSTICOS DOS MELHORES JOGADORES DE CADA LIGA
 
 Este projeto visa realizar uma análise estatística aprofundada para identificar e classificar os melhores jogadores em diversas ligas de futebol ao redor do mundo, com base em métricas de desempenho chave. O objetivo é fornecer uma visão baseada em dados sobre o talento de elite em cada competição.
 
